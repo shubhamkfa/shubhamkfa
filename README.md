@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham 😄
-- 👀 I’m interested in Learning... HTML,CSS,Javascript,Java,Selenium,Automation.
-- 🌱 I’m currently learning... HTML,CSS,Javascript,Java
-- 💞️ I’m looking to collaborate on... HTML,CSS Projects
+- 👀 I’m interested in Learning... HTML,CSS,Javascript,React,NodeJs,SQL,Java,Selenium,Automation.
+- 🌱 I’m currently learning... HTML,CSS,Javascript,Java,React,NodeJs
+- 💞️ I’m looking to collaborate on... HTML,CSS,Javascript,React,NodeJs Projects
 - 📫 How to reach me ... You Can Contact me on - +91 8432932987
 - ⚡ Fun fact: ...I want to become a full stack developer.
 
