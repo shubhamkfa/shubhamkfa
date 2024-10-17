@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham 😄
-- 👀 I’m interested in .. HTML,CSS,Javascript,Cypress,Playwrite,React,NodeJs,SQL,Java,Selenium,Automation.
+- 👀 I’m interested in .. HTML,CSS,Javascript,Cypress
 - 💞️ I’m looking to collaborate on... Cypress,Playwright,HTML,CSS,Javascript,React, Projects
 - 📫 How to reach me ... You Can Contact me on - +91 8432932987
 
